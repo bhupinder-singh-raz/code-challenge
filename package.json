@@ -1,0 +1,10 @@
+{
+  "name": "youscience-code-challenge",
+  "version": "1.0.0",
+  "description": "An interview challenge in React",
+  "main": "index.js",
+  "repository": "https://github.com/YouScience/code-challenge",
+  "author": "Brandon Allred <brandon.allred@youscience.com>",
+  "license": "MIT",
+  "private": true
+}
